@@ -1,4 +1,4 @@
 layoutJS
 ========
 
-Javascript Library to help layout your content documentation comming soon. ;)
+Javascript Library to help layout your content documentation coming soon. ;)
